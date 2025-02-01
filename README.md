@@ -116,6 +116,7 @@ python extract_watermark.py --audio_input watermarked_audio.wav --logo_output ex
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+## Output
 ![Output Page 1](output-1.png)
 ![Output Page 2](output-2.png)
 ![Output Page 3](output-3.png)
@@ -129,3 +130,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Output Page 11](output-11.png)
 ![Output Page 12](output-12.png)
 ![Output Page 13](output-13.png)
+---
